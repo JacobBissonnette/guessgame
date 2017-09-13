@@ -32,6 +32,8 @@ function playGame(player) {
     while (Correct == 0);
 }
 
+
+
 function start() {
     var playAgain = 'y';
     do {
